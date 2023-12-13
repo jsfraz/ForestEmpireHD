@@ -1,0 +1,1 @@
+﻿Každá budova má jinou cenu a generuje jiné množství peněz a materiálu. Peníze a materiál se generují za každý jeden souboj v jeskyni. Čím víc budov, tím víc peněz a materiálu.

@@ -1,0 +1,6 @@
+﻿ dostává naklepáno!
+ dostává damage!
+ pociťuje tvůj meč!
+ se necítí moc dobře!
+ má konflikt s tvou čepelí!
+ dostává flákanec!

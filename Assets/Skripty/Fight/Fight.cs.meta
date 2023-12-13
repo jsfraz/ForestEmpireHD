@@ -1,0 +1,54 @@
+fileFormatVersion: 2
+guid: 02b8d098a45e475419fa7d20eaf1ed0e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cmr: {instanceID: 0}
+  - enemy_obj: {instanceID: 0}
+  - player_obj: {instanceID: 0}
+  - healthbarCanvas: {instanceID: 0}
+  - enemyName: {instanceID: 0}
+  - enemyHealthBar: {instanceID: 0}
+  - enemyHealthBarHp: {instanceID: 0}
+  - playerName: {instanceID: 0}
+  - playerHealthBar: {instanceID: 0}
+  - playerHealthBarHp: {instanceID: 0}
+  - messageCanvas: {instanceID: 0}
+  - message: {instanceID: 0}
+  - gameoverCanvas: {instanceID: 0}
+  - gameoverMessage: {instanceID: 0}
+  - resetButton: {instanceID: 0}
+  - resetButtonObject: {instanceID: 0}
+  - winCanvas: {instanceID: 0}
+  - winMessage: {instanceID: 0}
+  - winButtonObject: {instanceID: 0}
+  - buttonCanvas: {instanceID: 0}
+  - fightButton: {instanceID: 0}
+  - inventoryButton: {instanceID: 0}
+  - mercyButton: {instanceID: 0}
+  - runButton: {instanceID: 0}
+  - fightText: {fileID: 4900000, guid: 7517e4eac643af54bbdfcc2b2845e178, type: 3}
+  - inventoryText: {instanceID: 0}
+  - mercyText: {instanceID: 0}
+  - mercySuccessText: {instanceID: 0}
+  - mercyFailText: {instanceID: 0}
+  - mercyWinText: {instanceID: 0}
+  - runText: {instanceID: 0}
+  - runSuccessText: {instanceID: 0}
+  - runFailText: {instanceID: 0}
+  - runWinText: {instanceID: 0}
+  - enemyActionText: {instanceID: 0}
+  - winText: {instanceID: 0}
+  - deathText: {instanceID: 0}
+  - enemyTypes: {instanceID: 0}
+  - centaurNames: {instanceID: 0}
+  - dragonNames: {instanceID: 0}
+  - ogreNames: {instanceID: 0}
+  - skeletonNames: {instanceID: 0}
+  - wolfNames: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
