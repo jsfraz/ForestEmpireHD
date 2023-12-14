@@ -18,6 +18,7 @@
 - obchod s předměty
 - vylepšování postavy
 - pomsta čarodějnici, která hlavního hrdinu v noci praštila v lese do hlavy
+- stavění vesnice
 - už jsem zmiňoval špatné vtipy?
 
 ## Fotogalerie
